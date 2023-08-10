@@ -40,7 +40,7 @@ build/Release
 # node_modules/
 GenTest-Samples/
 jspm_packages/
-*.spec.js
+test/
 
 # TypeScript v1 declaration files
 typings/
